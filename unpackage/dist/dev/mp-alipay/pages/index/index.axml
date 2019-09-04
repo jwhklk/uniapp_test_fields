@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title" id="ssss">测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields测试一下fields</text></view><button data-event-opts="{{[['tap',[['test',['$event']]]]]}}" onTap="__e">点我</button></view>
